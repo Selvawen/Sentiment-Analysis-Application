@@ -72,7 +72,7 @@ To run the application, ensure the following are installed:
 
 ## Project Structure
 ```
-RealCapstone
+Sentimen-Analysis-Application
 ├── application
 │   ├── dataset
 │   ├── decision_tree.png
