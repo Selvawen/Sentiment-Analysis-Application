@@ -80,7 +80,6 @@ RealCapstone
 │   ├── main.ipynb
 │   ├── sentiment_model.pkl
 │   └── vectorizer.pkl
-├── document
 └── README.md
 ```
 
