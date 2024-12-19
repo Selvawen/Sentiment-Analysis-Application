@@ -89,6 +89,8 @@ Sentimen-Analysis-Application
 ![exampleimg](https://github.com/user-attachments/assets/70062877-8b47-45e0-bdbd-eb66d1057525)
 ![exampleimg2](https://github.com/user-attachments/assets/ebd6646b-afb6-420f-a408-1c837cb29db5)
 
+---
+
 ## License
 MIT License
 
